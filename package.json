@@ -14,10 +14,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Cubyn/phone"
+		"url": "https://github.com/cubyn/phone"
 	},
 	"bugs": {
-		"url": "https://github.com/Cubyn/phone/issues"
+		"url": "https://github.com/cubyn/phone/issues"
 	},
 	"devDependencies": {
 		"mocha": "latest",
